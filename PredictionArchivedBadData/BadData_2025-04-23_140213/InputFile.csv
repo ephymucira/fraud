@@ -1,0 +1,2 @@
+policy_number,months_as_customer,policy_deductable,policy_annual_premium,incident_severity,incident_hour_of_the_day,number_of_vehicles_involved,bodily_injuries,property_damage,police_report_available
+6327,134,1000,200.0,Major Damage,21,5,12,YES,NO
